@@ -1,4 +1,4 @@
-Click the Website Here : https://mahunta18.github.io/json-form/register
+Click the Website Here : https://mahunta18.github.io/json-form/
 
 
 
