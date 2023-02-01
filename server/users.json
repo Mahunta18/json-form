@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "name": "Siba",
+      "email": "ssmahunta@gmail.com",
+      "mobile": "9337607560",
+      "password": "siba18",
+      "id": 1
+    },
+    {
+      "name": "manua",
+      "email": "manua@gmail.com",
+      "mobile": "9337607561",
+      "password": "manua12",
+      "id": 2
+    },
+    {
+      "name": "Arjit Singh",
+      "email": "arjitsingh@gmail.com",
+      "mobile": "9778267461",
+      "password": "arjit",
+      "id": 3
+    },
+    {
+      "name": "Akash",
+      "email": "akash@gmail.com",
+      "mobile": "9888267461",
+      "password": "akash14",
+      "id": 4
+    },
+    {
+      "name": "Siba",
+      "email": "ssmahunta@gmail.com",
+      "mobile": "9337607560",
+      "country": "India",
+      "state": "Odisha",
+      "password": "siba18",
+      "id": 5
+    },
+    {
+      "name": "Basanta",
+      "email": "basanta@gmail.com",
+      "mobile": "47690576306",
+      "country": "India",
+      "state": "Odisha",
+      "password": "basnat12",
+      "id": 6
+    },
+    {
+      "name": "Basanta2",
+      "email": "basanta2@gmail.com",
+      "mobile": "47690576300",
+      "country": "India",
+      "state": "Odisha",
+      "password": "basnat12",
+      "id": 7
+    },
+    {
+      "name": "sankar",
+      "email": "sankar@gmail.com",
+      "mobile": "97782674622",
+      "country": "India",
+      "state": "Odisha",
+      "password": "sankar1",
+      "id": 8
+    },
+    {
+      "name": "Mahunta",
+      "email": "mahunta@gmail.com",
+      "mobile": "9778267461",
+      "country": "India",
+      "state": "Odisha",
+      "password": "mahunta",
+      "id": 9
+    },
+    {
+      "name": "Mahunta1",
+      "email": "mahunta1@gmail.com",
+      "mobile": "97782674621",
+      "country": "India",
+      "state": "Odisha",
+      "password": "mahunta1",
+      "id": 10
+    },
+    {
+      "name": "Litesh",
+      "email": "litesh@gmail.com",
+      "mobile": "9337607560",
+      "country": "India",
+      "state": "Odisha",
+      "password": "litesh",
+      "id": 11
+    },
+    {
+      "name": "Adity",
+      "email": "adity@gmail.com",
+      "mobile": "634837989",
+      "country": "India",
+      "state": "Odisha",
+      "password": "adiya",
+      "id": 12
+    }
+  ]
+}
